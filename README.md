@@ -1,2 +1,2 @@
-java-io-examples is...
+java-io-examples
 ================
